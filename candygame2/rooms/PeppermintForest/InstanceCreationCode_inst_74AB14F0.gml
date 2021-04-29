@@ -21,5 +21,5 @@ go = "You encourange the key, but it doesn't anywhere on its own.";
 hit = "Nothing good comes from violence.";
 open = "You can't open this.";
 operate = " ";
-speak = "No use talking to a key.";
+speak = "No use talking to a key lol.";
 examine = myItemDescription;
