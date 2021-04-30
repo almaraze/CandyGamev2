@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "scr_PadLock",
+  "name": "scr_StartingGate",
   "tags": [],
   "resourceType": "GMScript",
 }

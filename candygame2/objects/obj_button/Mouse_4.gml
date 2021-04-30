@@ -8,6 +8,5 @@ if (obj_interactions.state == btnScript)
 else 
 {
 	obj_interactions.state = btnScript;
-	global.selectedAction = self.id;
-	
+	global.selectedAction = self.id;	
 }

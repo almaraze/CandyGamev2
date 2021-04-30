@@ -21,9 +21,12 @@ myItemName = undefined;
 myItemAmount = undefined;
 myItemDescription = undefined;
 myItemSprite = undefined;
-myItemScript = undefined;
+//myItemScript = undefined;
 
 pickUp = false;  // Is this an item that can go in inventory?
+operateable = false;
+openable = false;
+canGoThrough = false;
 close = undefined;
 consume = undefined;
 go = undefined;
