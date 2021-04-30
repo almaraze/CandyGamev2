@@ -6,5 +6,12 @@ function scr_BackArrow(){
 		case PForestHub:
 			room_goto(PeppermintForest);			
 			break;
+		case CastleGate:
+		case ChocolateSwampEntrance:
+		case LicoriceFields:
+		case MountainGatePRE:
+		case CookieCampGate:
+			room_goto(PForestHub);
+			break;
 	}
 }
