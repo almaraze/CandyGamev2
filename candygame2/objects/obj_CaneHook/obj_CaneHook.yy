@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "PeppermingForest",
-    "path": "folders/Objects/PeppermingForest.yy",
+    "name": "PeppermintForest",
+    "path": "folders/Objects/PeppermintForest.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_CaneHook",

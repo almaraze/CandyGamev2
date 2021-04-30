@@ -16,7 +16,14 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_RoomManager","path":"objects/obj_RoomManager/obj_RoomManager.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_787A6C19","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"UI_and_Event_Handler","tags":[],"resourceType":"GMRInstanceLayer",},
-    {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_CastleGate","path":"objects/obj_CastleGate/obj_CastleGate.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":306.0,"y":81.0,"resourceVersion":"1.0","name":"inst_5243C9EB","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_CampSign","path":"objects/obj_CampSign/obj_CampSign.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":207.0,"y":171.0,"resourceVersion":"1.0","name":"inst_15183900","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_ChocolateSwampPath","path":"objects/obj_ChocolateSwampPath/obj_ChocolateSwampPath.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":446.0,"y":216.0,"resourceVersion":"1.0","name":"inst_55DC0F75","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_GumdropMountainHubView","path":"objects/obj_GumdropMountainHubView/obj_GumdropMountainHubView.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":442.0,"y":89.0,"resourceVersion":"1.0","name":"inst_71F3EF7C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_LicoriceFieldsPath","path":"objects/obj_LicoriceFieldsPath/obj_LicoriceFieldsPath.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":175.0,"y":82.0,"resourceVersion":"1.0","name":"inst_255FA433","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_BackArrow","path":"objects/obj_BackArrow/obj_BackArrow.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":284.0,"y":254.0,"resourceVersion":"1.0","name":"inst_50997367","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"spr_Hub","path":"sprites/spr_Hub/spr_Hub.yy",},"colour":4294967295,"x":128,"y":22,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
@@ -24,6 +31,12 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_787A6C19","path":"rooms/PForestHub/PForestHub.yy",},
+    {"name":"inst_5243C9EB","path":"rooms/PForestHub/PForestHub.yy",},
+    {"name":"inst_15183900","path":"rooms/PForestHub/PForestHub.yy",},
+    {"name":"inst_55DC0F75","path":"rooms/PForestHub/PForestHub.yy",},
+    {"name":"inst_71F3EF7C","path":"rooms/PForestHub/PForestHub.yy",},
+    {"name":"inst_255FA433","path":"rooms/PForestHub/PForestHub.yy",},
+    {"name":"inst_50997367","path":"rooms/PForestHub/PForestHub.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
