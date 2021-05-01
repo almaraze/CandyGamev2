@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_BackArrow",
-    "path": "sprites/spr_BackArrow/spr_BackArrow.yy",
+    "name": "spr_UncrossableSwamp",
+    "path": "sprites/spr_UncrossableSwamp/spr_UncrossableSwamp.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,15 +23,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_MegaCookiePile","path":"objects/obj_MegaCookiePile/obj_MegaCookiePile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ChocolateSwampEntrance",
+    "path": "folders/Objects/ChocolateSwampEntrance.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BackArrow",
+  "name": "obj_SwampGap",
   "tags": [],
   "resourceType": "GMObject",
 }

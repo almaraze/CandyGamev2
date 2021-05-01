@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_BackArrow",
-    "path": "sprites/spr_BackArrow/spr_BackArrow.yy",
+    "name": "spr_Permit",
+    "path": "sprites/spr_Permit/spr_Permit.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ChocoloateSwamp2",
+    "path": "folders/Objects/ChocoloateSwamp2.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BackArrow",
+  "name": "obj_permit",
   "tags": [],
   "resourceType": "GMObject",
 }

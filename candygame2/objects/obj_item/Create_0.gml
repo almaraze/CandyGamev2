@@ -27,6 +27,7 @@ pickUp = false;  // Is this an item that can go in inventory?
 operateable = false;
 openable = false;
 canGoThrough = false;
+hasSpeakAction = false;
 close = undefined;
 consume = undefined;
 go = undefined;

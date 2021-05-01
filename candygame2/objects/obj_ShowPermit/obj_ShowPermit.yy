@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_BackArrow",
-    "path": "sprites/spr_BackArrow/spr_BackArrow.yy",
+    "name": "spr_ShowPermitSign",
+    "path": "sprites/spr_ShowPermitSign/spr_ShowPermitSign.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,15 +23,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "CookieCampGate",
+    "path": "folders/Objects/CookieCampGate.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BackArrow",
+  "name": "obj_ShowPermit",
   "tags": [],
   "resourceType": "GMObject",
 }

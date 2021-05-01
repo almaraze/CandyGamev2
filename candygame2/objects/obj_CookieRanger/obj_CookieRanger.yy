@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_BackArrow",
-    "path": "sprites/spr_BackArrow/spr_BackArrow.yy",
+    "name": "spr_CookieCampsiteGateNPC",
+    "path": "sprites/spr_CookieCampsiteGateNPC/spr_CookieCampsiteGateNPC.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "CookieCampGate",
+    "path": "folders/Objects/CookieCampGate.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BackArrow",
+  "name": "obj_CookieRanger",
   "tags": [],
   "resourceType": "GMObject",
 }
