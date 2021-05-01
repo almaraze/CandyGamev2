@@ -1,8 +1,5 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function scr_SwampGap(){
-	//if (global.selectedItem.myItemSprite == spr_cookiebridge)
-	//{
-		room_goto(ChocolateSwamp1)
-	//}
+function scr_SignPostLeft(){
+	room_goto(ChocolateSwamp2);
 }

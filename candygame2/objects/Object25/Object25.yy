@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_BackArrow",
-    "path": "sprites/spr_BackArrow/spr_BackArrow.yy",
+    "name": "spr_SignPostLeft",
+    "path": "sprites/spr_SignPostLeft/spr_SignPostLeft.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ChocolateSwamp1",
+    "path": "folders/Objects/ChocolateSwamp1.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BackArrow",
+  "name": "Object25",
   "tags": [],
   "resourceType": "GMObject",
 }

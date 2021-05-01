@@ -2,7 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_CookieRanger(){
 	
-	if(inst_3044F724.inInventory) // permit instance
+	if(instance_exists(obj_permit) && inst_3044F724.inInventory) // permit instance
 	{
 		global.selectedItem.speak = "Thanks for showing me your camping permit. Enjoy the campsite";
 		inst_2086294D.gavePermission = true;  // Cookie Guard saw permit

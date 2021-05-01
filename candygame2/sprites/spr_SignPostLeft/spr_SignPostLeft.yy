@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d8f40162-1442-4478-820b-1c34e3fe4ffd","path":"sprites/spr_SignPost/spr_SignPost.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d8f40162-1442-4478-820b-1c34e3fe4ffd","path":"sprites/spr_SignPost/spr_SignPost.yy",},"LayerId":{"name":"44ad5ebd-4196-4827-be8b-1c9320c7579c","path":"sprites/spr_SignPost/spr_SignPost.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_SignPost","path":"sprites/spr_SignPost/spr_SignPost.yy",},"resourceVersion":"1.0","name":"d8f40162-1442-4478-820b-1c34e3fe4ffd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"156d5f11-a2ae-41c3-b58c-b429f55e56d0","path":"sprites/spr_SignPostLeft/spr_SignPostLeft.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"156d5f11-a2ae-41c3-b58c-b429f55e56d0","path":"sprites/spr_SignPostLeft/spr_SignPostLeft.yy",},"LayerId":{"name":"f0888cd1-25a0-4a1f-ae76-83ba7fd3a558","path":"sprites/spr_SignPostLeft/spr_SignPostLeft.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_SignPostLeft","path":"sprites/spr_SignPostLeft/spr_SignPostLeft.yy",},"resourceVersion":"1.0","name":"156d5f11-a2ae-41c3-b58c-b429f55e56d0","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_SignPost","path":"sprites/spr_SignPost/spr_SignPost.yy",},
+    "spriteId": {"name":"spr_SignPostLeft","path":"sprites/spr_SignPostLeft/spr_SignPostLeft.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bedc0a2b-fa16-4279-be08-5652eea7b0f9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8f40162-1442-4478-820b-1c34e3fe4ffd","path":"sprites/spr_SignPost/spr_SignPost.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9fbfdd3e-a909-4785-9c17-e4558f62e007","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"156d5f11-a2ae-41c3-b58c-b429f55e56d0","path":"sprites/spr_SignPostLeft/spr_SignPostLeft.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 25,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_SignPost","path":"sprites/spr_SignPost/spr_SignPost.yy",},
+    "parent": {"name":"spr_SignPostLeft","path":"sprites/spr_SignPostLeft/spr_SignPostLeft.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_SignPost",
+    "name": "spr_SignPostLeft",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"44ad5ebd-4196-4827-be8b-1c9320c7579c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f0888cd1-25a0-4a1f-ae76-83ba7fd3a558","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_SignPost",
+  "name": "spr_SignPostLeft",
   "tags": [],
   "resourceType": "GMSprite",
 }

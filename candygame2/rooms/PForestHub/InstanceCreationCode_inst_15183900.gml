@@ -1,7 +1,7 @@
 // Define These in Instance Creation Code!
 myItemName = "Camp Sign";
 myItemAmount = 1;
-myItemDescription = "A doughy sign that reads 'CAMP' points off down a trail to some sor of campsite.";
+myItemDescription = "A doughy sign that reads 'CAMP' points off down a trail to some sort of campsite.";
 myItemSprite = spr_campSignHubView;
 myItemScript = scr_CampSignHubView;
 
