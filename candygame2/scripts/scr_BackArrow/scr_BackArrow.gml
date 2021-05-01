@@ -19,5 +19,13 @@ function scr_BackArrow(){
 		case ChocolateSwamp2:
 			room_goto(ChocolateSwamp1);
 			break;
+		case CookieCampHub:
+			room_goto(CookieCampGate);
+			break;
+		case Tent1:
+		case Tent2:
+		case Tent3:
+			room_goto(CookieCampHub);
+			break;
 	}
 }
