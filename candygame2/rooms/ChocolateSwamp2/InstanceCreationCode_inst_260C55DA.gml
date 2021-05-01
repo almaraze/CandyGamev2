@@ -1,4 +1,5 @@
 // Define These in Instance Creation Code!
+depth = -999;
 speechCounter = 0;
 questActive = false;
 questCompleted = false;
@@ -16,7 +17,7 @@ go = "You don't want to go to it.";
 hit = "It's much bigger than you... you don't want to hit it.";
 open = "You can't open anything there.";
 operate = "I'm not sure why you tried that.";
-speak = " ";
+speak = "Thanks for helping me out.";
 examine = myItemDescription;
 
 ///////////////////////////////////////////

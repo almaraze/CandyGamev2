@@ -11,7 +11,7 @@ openable = false;
 canGoThrough = false;
 hasSpeakAction = true;
 gavePermission = false;
-depth = -999;
+depth = -1;
 
 close = "That doesn't make sense.";
 consume = "You probably shouldn't eat his head!";

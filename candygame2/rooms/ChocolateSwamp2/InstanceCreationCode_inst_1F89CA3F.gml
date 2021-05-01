@@ -1,0 +1,1 @@
+myItemSprite = spr_SignPostRight

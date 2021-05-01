@@ -1,10 +1,16 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_keypiece1",
+    "path": "sprites/spr_keypiece1/spr_keypiece1.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_item",
+    "path": "objects/obj_item/obj_item.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,7 +31,7 @@
     "path": "folders/Objects/ChocoloateSwamp2.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object28",
+  "name": "obj_KeyPiece1",
   "tags": [],
   "resourceType": "GMObject",
 }
