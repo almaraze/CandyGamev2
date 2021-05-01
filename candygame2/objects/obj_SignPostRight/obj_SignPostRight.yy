@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_SignPostLeft",
-    "path": "sprites/spr_SignPostLeft/spr_SignPostLeft.yy",
+    "name": "spr_SignPostRight",
+    "path": "sprites/spr_SignPostRight/spr_SignPostRight.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_item",
-    "path": "objects/obj_item/obj_item.yy",
+    "name": "obj_BackArrow",
+    "path": "objects/obj_BackArrow/obj_BackArrow.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ChocolateSwamp1",
-    "path": "folders/Objects/ChocolateSwamp1.yy",
+    "name": "ChocolateSwampEntrance",
+    "path": "folders/Objects/ChocolateSwampEntrance.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object25",
+  "name": "obj_SignPostRight",
   "tags": [],
   "resourceType": "GMObject",
 }
