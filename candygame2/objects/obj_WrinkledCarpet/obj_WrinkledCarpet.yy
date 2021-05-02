@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_KeyPieces",
-    "path": "sprites/spr_KeyPieces/spr_KeyPieces.yy",
+    "name": "spr_WrinkledRug",
+    "path": "sprites/spr_WrinkledRug/spr_WrinkledRug.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ChocoloateSwamp2",
-    "path": "folders/Objects/ChocoloateSwamp2.yy",
+    "name": "Tents",
+    "path": "folders/Objects/Tents.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_KeyPiece1",
+  "name": "obj_WrinkledCarpet",
   "tags": [],
   "resourceType": "GMObject",
 }

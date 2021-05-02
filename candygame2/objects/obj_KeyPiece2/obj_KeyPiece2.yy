@@ -29,11 +29,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ChocoloateSwamp2",
-    "path": "folders/Objects/ChocoloateSwamp2.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_KeyPiece1",
+  "name": "obj_KeyPiece2",
   "tags": [],
   "resourceType": "GMObject",
 }
