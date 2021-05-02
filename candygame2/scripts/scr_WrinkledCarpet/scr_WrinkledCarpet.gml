@@ -14,8 +14,8 @@ function scr_WrinkledCarpet(){
 			myItemName = "Key Piece number 2";
 			myItemAmount = 1;
 			myItemDescription = "It looks like it is a part of something.";
-			myItemSprite = spr_KeyPieces;
-			sprite_index = 1;
+			myItemSprite = spr_KeyPiece2;
+			image_index = 1;
 
 			pickUp = true;  // Is this an item that can go in inventory?				
 			close = "You can't close this.";
@@ -26,8 +26,7 @@ function scr_WrinkledCarpet(){
 			operate = "Hmmm...";
 			speak = "\"What the heck is this thing?\"";
 			examine = myItemDescription;
-		}
-		
+		}		
 		
 		instance_destroy(self);
 	}

@@ -60,7 +60,7 @@ function scr_SwampNPC(){
 				myItemName = "Key Piece number 1";
 				myItemAmount = 1;
 				myItemDescription = "It looks like it is a part of something.";
-				myItemSprite = spr_KeyPieces;
+				myItemSprite = spr_KeyPiece1;
 				
 
 				pickUp = true;  // Is this an item that can go in inventory?

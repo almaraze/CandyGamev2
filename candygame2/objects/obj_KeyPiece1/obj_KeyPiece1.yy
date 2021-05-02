@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_KeyPieces",
-    "path": "sprites/spr_KeyPieces/spr_KeyPieces.yy",
+    "name": "spr_KeyPiece1",
+    "path": "sprites/spr_KeyPiece1/spr_KeyPiece1.yy",
   },
   "solid": false,
   "visible": true,
