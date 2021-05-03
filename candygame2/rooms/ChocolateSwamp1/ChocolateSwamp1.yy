@@ -19,7 +19,6 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_SignPostLeft","path":"objects/obj_SignPostLeft/obj_SignPostLeft.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":128.0,"resourceVersion":"1.0","name":"inst_1C29EB88","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_BackArrow","path":"objects/obj_BackArrow/obj_BackArrow.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":252.0,"y":253.0,"resourceVersion":"1.0","name":"inst_679DB5A8","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_placeholder1","path":"objects/obj_placeholder1/obj_placeholder1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":463.0,"y":208.0,"resourceVersion":"1.0","name":"inst_1B3171D8","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"spr_ChocolateSwamp","path":"sprites/spr_ChocolateSwamp/spr_ChocolateSwamp.yy",},"colour":4294967295,"x":128,"y":22,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -30,7 +29,6 @@
     {"name":"inst_787A6C19","path":"rooms/ChocolateSwamp1/ChocolateSwamp1.yy",},
     {"name":"inst_1C29EB88","path":"rooms/ChocolateSwamp1/ChocolateSwamp1.yy",},
     {"name":"inst_679DB5A8","path":"rooms/ChocolateSwamp1/ChocolateSwamp1.yy",},
-    {"name":"inst_1B3171D8","path":"rooms/ChocolateSwamp1/ChocolateSwamp1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

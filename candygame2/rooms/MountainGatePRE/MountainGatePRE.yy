@@ -18,6 +18,9 @@
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"UI_and_Event_Handler","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_BackArrow","path":"objects/obj_BackArrow/obj_BackArrow.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":245.0,"y":252.0,"resourceVersion":"1.0","name":"inst_799F7AD4","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_placeholder1","path":"objects/obj_placeholder1/obj_placeholder1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":224.0,"resourceVersion":"1.0","name":"inst_4AEE7D5B","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_GumdropNPC","path":"objects/obj_GumdropNPC/obj_GumdropNPC.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":144.0,"resourceVersion":"1.0","name":"inst_7687A40C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Rocks","path":"objects/obj_Rocks/obj_Rocks.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":364.0,"y":170.0,"resourceVersion":"1.0","name":"inst_3D719701","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"spr_MountainGatePRE","path":"sprites/spr_MountainGatePRE/spr_MountainGatePRE.yy",},"colour":4294967295,"x":128,"y":22,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -27,6 +30,9 @@
   "instanceCreationOrder": [
     {"name":"inst_787A6C19","path":"rooms/MountainGatePRE/MountainGatePRE.yy",},
     {"name":"inst_799F7AD4","path":"rooms/MountainGatePRE/MountainGatePRE.yy",},
+    {"name":"inst_4AEE7D5B","path":"rooms/MountainGatePRE/MountainGatePRE.yy",},
+    {"name":"inst_7687A40C","path":"rooms/MountainGatePRE/MountainGatePRE.yy",},
+    {"name":"inst_3D719701","path":"rooms/MountainGatePRE/MountainGatePRE.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

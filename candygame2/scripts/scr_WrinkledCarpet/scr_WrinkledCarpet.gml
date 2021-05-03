@@ -29,5 +29,6 @@ function scr_WrinkledCarpet(){
 		}		
 		
 		instance_destroy(self);
+		scr_print("Lifting the carpet reveals a small item... It looks like it is made from the same material as the other mystery item you got at the swamp.")
 	}
 }

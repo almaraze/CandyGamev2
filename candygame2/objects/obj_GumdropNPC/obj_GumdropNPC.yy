@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_AutographedPIcture",
-    "path": "sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",
+    "name": "spr_GumdropMountainNPC",
+    "path": "sprites/spr_GumdropMountainNPC/spr_GumdropMountainNPC.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ChocolateSlime","path":"objects/obj_ChocolateSlime/obj_ChocolateSlime.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ChocolateSwamp1",
-    "path": "folders/Objects/ChocolateSwamp1.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_placeholder1",
+  "name": "obj_GumdropNPC",
   "tags": [],
   "resourceType": "GMObject",
 }
