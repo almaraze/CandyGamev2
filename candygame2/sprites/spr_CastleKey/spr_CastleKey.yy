@@ -1,5 +1,5 @@
 {
-  "bboxMode": 2,
+  "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
   "origin": 4,
@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 36,
-  "bbox_right": 92,
-  "bbox_top": 12,
-  "bbox_bottom": 78,
+  "bbox_left": 27,
+  "bbox_right": 121,
+  "bbox_top": 23,
+  "bbox_bottom": 75,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"dbc7be8f-4d49-45dc-bf17-75dc4b7cb790","path":"sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dbc7be8f-4d49-45dc-bf17-75dc4b7cb790","path":"sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",},"LayerId":{"name":"09809e18-efca-49e4-8275-2b6e7be98cb2","path":"sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_AutographedPIcture","path":"sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",},"resourceVersion":"1.0","name":"dbc7be8f-4d49-45dc-bf17-75dc4b7cb790","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b20049b4-06e4-4e5e-b691-19668b7e54fc","path":"sprites/spr_CastleKey/spr_CastleKey.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b20049b4-06e4-4e5e-b691-19668b7e54fc","path":"sprites/spr_CastleKey/spr_CastleKey.yy",},"LayerId":{"name":"0dc4251e-80d2-4a0b-a90c-8ea38d1a4d29","path":"sprites/spr_CastleKey/spr_CastleKey.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CastleKey","path":"sprites/spr_CastleKey/spr_CastleKey.yy",},"resourceVersion":"1.0","name":"b20049b4-06e4-4e5e-b691-19668b7e54fc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_AutographedPIcture","path":"sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",},
+    "spriteId": {"name":"spr_CastleKey","path":"sprites/spr_CastleKey/spr_CastleKey.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4df819b8-ca41-491c-a796-da2a2ddd3c8e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dbc7be8f-4d49-45dc-bf17-75dc4b7cb790","path":"sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f279d2b2-3c19-4d7c-aff3-718b09bcb2ca","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b20049b4-06e4-4e5e-b691-19668b7e54fc","path":"sprites/spr_CastleKey/spr_CastleKey.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 46,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_AutographedPIcture","path":"sprites/spr_AutographedPIcture/spr_AutographedPIcture.yy",},
+    "parent": {"name":"spr_CastleKey","path":"sprites/spr_CastleKey/spr_CastleKey.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_AutographedPIcture",
+    "name": "spr_CastleKey",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"09809e18-efca-49e4-8275-2b6e7be98cb2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0dc4251e-80d2-4a0b-a90c-8ea38d1a4d29","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_AutographedPIcture",
+  "name": "spr_CastleKey",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -7,7 +7,8 @@ function scr_WrinkledCarpet(){
 		
 	with(inst_7E519E2D)
 	{
-		with(instance_create_layer(x, y, "Instances", obj_KeyPiece2))
+		global.key2 = instance_create_layer(x, y, "Instances", obj_KeyPiece2);
+		with(global.key2)
 		{
 			// Define These in Instance Creation Code!
 			depth = -1000

@@ -18,6 +18,7 @@
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"UI_and_Event_Handler","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_BackArrow","path":"objects/obj_BackArrow/obj_BackArrow.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":319.0,"y":252.0,"resourceVersion":"1.0","name":"inst_34FECC65","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_CastleGateKeyHole","path":"objects/obj_CastleGateKeyHole/obj_CastleGateKeyHole.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":319.0,"y":178.0,"resourceVersion":"1.0","name":"inst_47F5CDC","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"spr_CastleGate","path":"sprites/spr_CastleGate/spr_CastleGate.yy",},"colour":4294967295,"x":128,"y":22,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -27,6 +28,7 @@
   "instanceCreationOrder": [
     {"name":"inst_787A6C19","path":"rooms/CastleGate/CastleGate.yy",},
     {"name":"inst_34FECC65","path":"rooms/CastleGate/CastleGate.yy",},
+    {"name":"inst_47F5CDC","path":"rooms/CastleGate/CastleGate.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

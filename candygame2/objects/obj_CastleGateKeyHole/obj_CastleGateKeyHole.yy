@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_KeyPiece2",
-    "path": "sprites/spr_KeyPiece2/spr_KeyPiece2.yy",
+    "name": "spr_castleGateKeyHole",
+    "path": "sprites/spr_castleGateKeyHole/spr_castleGateKeyHole.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Tents",
-    "path": "folders/Objects/Tents.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_KeyPiece2",
+  "name": "obj_CastleGateKeyHole",
   "tags": [],
   "resourceType": "GMObject",
 }

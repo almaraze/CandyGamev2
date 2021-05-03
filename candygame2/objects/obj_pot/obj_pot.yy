@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_KeyPiece2",
-    "path": "sprites/spr_KeyPiece2/spr_KeyPiece2.yy",
+    "name": "spr_PlainPot",
+    "path": "sprites/spr_PlainPot/spr_PlainPot.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Tents.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_KeyPiece2",
+  "name": "obj_pot",
   "tags": [],
   "resourceType": "GMObject",
 }

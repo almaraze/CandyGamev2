@@ -3,7 +3,11 @@
 function scr_hit(){
 	if (global.selectedItem != 0) 
 	{
-		scr_print(global.selectedItem.hit);
+		if (global.selectedItem.breakable)
+			script_execute(global.selectedItem.myItemScript);
+		else
+			scr_print(global.selectedItem.hit);
+		// reset
 		obj_interactions.state = scr_idle;
 		global.selectedAction = 0;
 		global.selectedItem = 0;

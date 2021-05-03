@@ -8,6 +8,3 @@ if (inInventory == false){
 	persistent = true;
 	inInventory = true;
 }
-
-
-

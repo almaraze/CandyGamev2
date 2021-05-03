@@ -1,3 +1,5 @@
+/// @description 
+
 depth = -1000
 image_speed = 0;
 
@@ -17,25 +19,25 @@ yy = 0;
 
 
 // Define These in Instance Creation Code!
-myItemName = undefined;
-myItemAmount = undefined;
-myItemDescription = undefined;
-myItemSprite = undefined;
+myItemName = "Key Piece 3";
+myItemAmount = 1;
+myItemDescription = "Looks like a piece of a key...";
+myItemSprite = spr_KeyPiece3;
 //myItemScript = undefined;
 
-pickUp = false;  // Is this an item that can go in inventory?
+pickUp = true;  // Is this an item that can go in inventory?
 operateable = false;
 openable = false;
 canGoThrough = false;
 hasSpeakAction = false;
-breakable = false;
-close = undefined;
-consume = undefined;
-go = undefined;
-hit = undefined;
-open = undefined;
-operate = undefined;
-speak = undefined;
+
+close = "You can't open it.";
+consume = "That's not a good idea.";
+go = "You can't do that.";
+hit = "Violence is not the answer.";
+open = "That's not possible.";
+operate = "Can't do that.";
+speak = "Your words go unnoticed.";
 examine = myItemDescription;
 
 ///////////////////////////////////////////
