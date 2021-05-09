@@ -11,7 +11,7 @@ function scr_CandyKing(){
 					scr_print("\"Well, well, well... This is rather disappointing. I was hoping that you wouldn't make it this far, just like the others. Instead, you had to go meddling around trying to figure out why you're here, huh?\"");
 					break;
 				case 1:
-					scr_print("\"I suppose since you've managed to make it all the way here I at least own you an explanation. I brought you here. You see, my candy kingdom is severely lacking in subjects.\"");
+					scr_print("\"I suppose since you've managed to make it all the way here I at least owe you an explanation. I brought you here. You see, my candy kingdom is severely lacking in subjects.\"");
 					break;
 				case 2: 
 					scr_print("\"Slowly but surely I have been collecting little candies here and there to build a population here. Instead, though, all my candies just keep complaining to me about their little problems.\"");
