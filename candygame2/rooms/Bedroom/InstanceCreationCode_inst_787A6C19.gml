@@ -1,2 +1,2 @@
-scene = spr_Bedroom;
+scene = spr_bedroom;
 introMessage = "\"What...happened?\" You take a look around...";
